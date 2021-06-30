@@ -1,0 +1,10 @@
+-python version 3.8
+
+-All the code of part 1 and part 2 is on one file. You need the following libraries:
+
+numpy, pandas, seaborn, matplotlib.pyplot, sklearn
+and matplotlib.backends.backend_pdf to generate the log file
+
+-Please, read the comments and the report along with the logfile for better understanding.
+
+-The code takes about 2 minutes to fully execute due to a broad tuning process. It will automatically generate a logfile.pdf
