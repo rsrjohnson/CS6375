@@ -1,0 +1,224 @@
+Centroid Tweet: 
+['rt', 'askdrnancy', 'if', 'our', '2014', 'w-2', 'is', 'going', 'to', 'verify', 'our', 'employer', 'paid', 'health', 'insurance', 'are', 'we', 'going', 'to', 'be', 'taxed', 'on', 'it', 'dea']
+Tweets in cluster:
+['following', 'mistake', 'and', 'possible', 'exposures', 'at', 'cdc', 'ebola', 'lab', 'health', 'of', 'involved', 'staff', 'to', 'be', 'monitored', 'for', '21', 'days']
+['103-year-old', 'doctor', 'on', 'longevity', 'exercise', 'is', 'over-rated']
+['obamacare', 'bump', '10', 'million', 'got', 'insurance', 'survey', 'shows']
+['million', 'dollar', 'question', 'why', "can't", 'we', 'sleep']
+['most', 'people', 'allergic', 'to', 'penicillin', 'are', 'not', 'researchers']
+
+Centroid Tweet: 
+['delivery', 'room', 'drama', 'has', 'birth', 'become', 'a', 'spectator', 'sport']
+Tweets in cluster:
+['aging', 'tsunami', "montana's", 'aging', 'crisis', 'takes', 'a', 'village']
+['baby', 'has', 'worst', 'disease', "you've", 'never', 'heard', 'of']
+['montana', 'clinic', 'helps', 'with', 'a', 'special', 'delivery']
+['u.s', 'names', '35', 'ebola-certified', 'hospitals']
+['should', 'toddlers', 'switched', 'at', 'birth', 'be', 'exchanged']
+
+Centroid Tweet: 
+['amid', 'outbreak', 'foster', 'farms', 'steps', 'up', 'food', 'safety']
+Tweets in cluster:
+['terminally', 'ill', 'basketball', 'player', 'signs', 'up', 'for', 'hospice', 'care']
+['ryan', 'reynolds', 'michael', 'j', 'fox', 'team', 'up', 'on', "parkinson's"]
+['snack', 'tax', 'navajo', 'lawmakers', 'ok', 'price', 'hike', 'on', 'junk', 'food']
+['ebola', 'aware', 'cdc', 'steps', 'up', 'traveler', 'monitoring']
+['ohio', 'mumps', 'outbreak', 'tops', 'whole', 'u.s', 'last', 'year']
+
+Centroid Tweet: 
+['cdc', 'to', 'stay', 'on', 'cruise', 'ship', 'with', 'more', 'than', '620', 'sickened']
+Tweets in cluster:
+['ice', 'bucket', 'challenge', 'still', 'rains', 'bucks', 'on', 'als']
+['fda', 'plans', 'to', 'ease', 'ban', 'on', 'blood', 'donations', 'by', 'gay', 'men']
+['boy', 'with', 'rare', 'disease', 'donates', 'his', 'toys', 'to', 'ucla', 'hospital']
+['biggest', 'loser', 'trainer', 'on', 'how', 'to', 'avoid', 'holiday', 'weight', 'gain']
+['politically', 'hot', 'or', 'not', 'attractiveness', 'decided', 'on', 'party', 'lines']
+
+Centroid Tweet: 
+['baby', 'aspirin', 'may', 'prevent', 'deadly', 'pregnancy', 'problem', 'task', 'force']
+Tweets in cluster:
+['that', 'cheap', 'old', 'car', 'might', 'carry', 'deadly', 'cost', 'for', 'teens']
+['air', 'pollution', 'may', 'nearly', 'double', 'autism', 'risk']
+['unprecedented', 'drug', 'may', 'help', 'heal', 'damaged', 'spines']
+['radiation', 'danger', 'kids', 'may', 'get', 'unneeded', 'x-rays']
+['viral', 'baby', 'announcement', 'includes', 'cookies', 'and', 'screams']
+
+Centroid Tweet: 
+['obesity', 'linked', 'to', 'early', 'puberty', 'in', 'us', 'girls', 'study', 'finds']
+Tweets in cluster:
+['flu', 'cases', 'surge', 'in', 'the', 'us']
+['flu', 'season', 'is', 'off', 'to', 'an', 'early', 'start', 'this', 'year', 'cdc']
+['caramel', 'apples', 'linked', 'to', 'five', 'deaths', 'cdc', 'says']
+['caramel', 'apples', 'linked', 'to', '5', 'deaths', 'cdc', 'says']
+['could', 'christmas', 'worsen', "ebola's", 'spread']
+
+Centroid Tweet: 
+['longer', 'quarantines', 'may', 'be', 'needed', 'with', 'new', 'deadly', 'mers', 'virus']
+Tweets in cluster:
+['deadly', '2015', 'can', "ebola's", 'rampage', 'in', 'africa', 'be', 'stopped']
+['star', "goalie's", 'new', 'role', 'inspires', 'others', 'with', "tourette's"]
+['breast', 'cancer', 'patients', 'may', 'get', 'longer', 'radiation', 'than', 'needed']
+['less', 'painful', 'mammograms', 'new', 'device', 'may', 'help']
+['brittany', 'maynard', 'may', 'stay', 'longer', 'than', 'planned', 'she', 'says']
+
+Centroid Tweet: 
+['fda', 'warns', 'of', 'dangerous', 'testosterone', 'risks', 'video', 'via', 'health']
+Tweets in cluster:
+['fda', 'warns', 'against', 'ultrasounds', 'for', 'keepsake', 'images']
+['u.s', 'kids', 'favor', 'e-cigarettes', 'over', 'traditional', 'ones']
+['use', 'of', 'unproven', 'stem', 'cell', 'therapy', 'questioned']
+['circumcision', 'benefits', 'outweigh', 'the', 'risks', 'cdc', 'says']
+['family', 'hears', 'dead', "son's", 'heart', 'beat', 'inside', 'chest', 'of', 'organ', 'recipient']
+
+Centroid Tweet: 
+['fda', 'idaho', 'knew', 'yogurt', 'was', 'tainted', 'before', 'recall']
+Tweets in cluster:
+['while', 'i', 'was', 'sleeping', 'confessions', 'of', 'an', 'ambien', 'zombie']
+['boy', 'born', 'without', 'thumbs', 'gets', 'hands', 'transformed']
+['why', 'my', 'husband', 'and', 'i', 'sleep', 'apart']
+['yes', 'it', 'was', 'a', 'nasty', 'flu', 'year', 'cdc', 'confirms']
+['tainted', 'meat', 'group', 'sues', 'usda', 'over', 'salmonella']
+
+Centroid Tweet: 
+['mom', 'worried', 'about', 'meningitis', 'sends', 'son', 'to', 'london', 'to', 'get', 'shot']
+Tweets in cluster:
+['not', 'just', 'skin', 'cancer', 'indoor', 'tanning', 'sends', 'hundreds', 'to', 'ers']
+['why', 'bother', 'getting', 'flu', 'shot', 'what', 'you', 'need', 'to', 'know']
+['holiday', 'surprise', 'what', 'to', 'do', 'when', 'mom', 'or', 'dad', 'is', 'slipping', 'away']
+['4', 'things', 'we', 'get', 'wrong', 'about', 'metabolism']
+['hero', 'to', 'me', 'son', 'of', 'ebola', 'doctor', 'praises', 'dad']
+
+Centroid Tweet: 
+['5', 'tips', 'to', 'get', 'started', 'on', 'the', 'drop', 'a', 'dress', 'size', 'plan']
+Tweets in cluster:
+['beyond', 'narcan', 'why', 'the', 'life-saving', 'heroin', 'antidote', "isn't", 'a', 'cure']
+['transgender', 'teacher', 'on', 'joy', 'heartbreak', 'of', 'life', 'as', 'a', 'woman']
+['growth', 'in', 'u.s', 'health', 'spending', 'the', 'lowest', 'on', 'record']
+['a', 'death', 'a', 'minute', '30', 'years', 'after', 'the', 'union', 'carbide', 'disaster']
+['5', 'million', 'strollers', 'recalled', 'over', 'fingertip', 'amputations']
+
+Centroid Tweet: 
+['fewer', 'gun', 'deaths', 'in', 'states', 'with', 'most', 'gun', 'laws', 'study', 'finds']
+Tweets in cluster:
+["children's", 'cartoons', 'are', 'rife', 'with', 'death', 'and', 'murders', 'study']
+["children's", 'cartoons', 'are', 'rife', 'with', 'death', 'and', 'murders', 'study']
+["children's", 'cartoons', 'are', 'rife', 'with', 'murders', 'study']
+['most', 'u.s', 'doctors', 'now', 'support', 'assisted', 'suicide', 'survey']
+['most', 'u.s', 'babies', 'sleep', 'in', 'unsafe', 'conditions', 'report', 'finds']
+
+Centroid Tweet: 
+["it's", 'true', 'triathletes', 'are', 'tougher', 'than', 'the', 'rest', 'of', 'us']
+Tweets in cluster:
+['mother', 'of', 'surprise', 'quads', 'luckiest', 'mom', 'in', 'the', 'whole', 'world']
+['thistown', 'may', 'hold', 'the', 'secrets', 'of', 'longevity']
+['burning', 'the', 'candle', 'most', 'us', 'kids', 'lack', 'sleep']
+['divorce', 'rates', 'are', 'lower', 'in', 'the', 'u.s', 'why']
+['8', 'percent', 'of', 'americans', 'have', 'depression', 'but', 'few', 'are', 'treated']
+
+Centroid Tweet: 
+['a', 'patent', 'on', 'your', 'dna', 'what', 'the', 'supreme', 'court', 'ruling', 'means', 'for', 'you']
+Tweets in cluster:
+['obamacare', 'by', 'the', 'numbers', 'what', 'a', 'difference', 'a', 'year', 'makes']
+['could', 'the', 'chemical', 'bpa', 'raise', 'your', 'blood', 'pressure']
+['childhood', 'illness', 'fells', 'mighty', 'hockey', 'players']
+['testing', 'for', 'an', 'incurable', 'disease', 'would', 'you', 'want', 'to', 'know']
+['is', 'technoference', 'hurting', 'your', 'relationship']
+
+Centroid Tweet: 
+['new', 'ebola', 'vaccine', 'trial', 'starts', 'in', 'baltimore']
+Tweets in cluster:
+['ebola', 'exposure', 'cdc', 'worker', 'remains', 'well']
+['pregnant', 'woman', 'taken', 'off', 'life', 'support', 'in', 'ireland']
+['secrets', 'from', "world's", 'oldest', 'yoga', 'teacher', 'i', "don't", 'believe', 'in', 'age']
+['california', 'gets', 'worst', 'whooping', 'cough', 'outbreak', 'in', 'decades']
+['how', 'one', 'woman', 'makes', 'a', 'difference', 'against', 'ebola']
+
+Centroid Tweet: 
+['texas', 'girl', 'recovering', 'after', 'obesity', 'surgery', 'switch']
+Tweets in cluster:
+['caramel', 'apples', 'recalled', 'after', 'listeria', 'deaths']
+['once', 'obese', 'but', 'starving', 'girl', 'sees', 'healthy', 'future']
+['obesity', 'costing', 'the', 'global', 'economy', 'trillions']
+['cdc', 'shelves', 'controversial', 'obesity', 'website']
+['how', 'well', 'do', 'hotel', 'maids', 'really', 'clean']
+
+Centroid Tweet: 
+['fda', 'approves', 'more', 'powerful', 'painkiller']
+Tweets in cluster:
+['gay', 'groups', 'decry', 'fda', 'rule', 'requiring', 'no', 'sex', 'to', 'give', 'blood']
+['nearly', '2', 'million', 'more', 'people', 'choose', 'obamacare']
+['one', 'more', 'drug', 'for', 'ebola', 'treatment', 'pipeline']
+['strong', 'start', 'millions', 'more', 'sign', 'up', 'for', 'obamacare']
+['dude', 'watch', 'this', 'are', 'men', 'really', 'more', 'idiotic']
+
+Centroid Tweet: 
+['bison', 'make', 'move', 'to', 'more', 'dinner', 'plates']
+Tweets in cluster:
+['toddler', 'finally', 'hears', "mom's", 'voice', 'thanks', 'to', 'implant']
+['misinformed', 'prenatal', 'tests', 'have', 'high', 'failure', 'rate']
+['hiv', 'patients', 'getting', 'sicker', 'to', 'qualify', 'for', 'housing']
+['gmo', 'cattle', 'produce', 'serum', 'to', 'fight', 'hantavirus']
+['bird', 'flu', 'forces', 'church', 'to', 'hold', 'drive-in', 'service']
+
+Centroid Tweet: 
+['aggressive', 'breast', 'cancer', 'in', 'more', 'young', 'women', 'study', 'finds']
+Tweets in cluster:
+['joan', 'lunden', 'i', 'can', 'see', 'the', 'finish', 'line', 'in', 'cancer', 'battle']
+['joan', 'lunden', 'i', 'can', 'see', 'the', 'finish', 'line', 'in', 'cancer', 'battle']
+['yes', 'you', 'lose', 'weight', 'by', 'breathing', 'study']
+['never', 'too', 'young', 'seeking', 'an', 'early', 'test', 'for', "alzheimer's"]
+['breast', 'cancer', 'prevention', 'last', 'decades', 'studies', 'find']
+
+Centroid Tweet: 
+['fda', 'proposes', 'strict', 'new', 'safety', 'rules', 'for', 'animal', 'food']
+Tweets in cluster:
+['fda', 'proposes', 'easing', 'ban', 'on', 'blood', 'donations', 'by', 'gay', 'men']
+["what's", 'this', "104-year-old's", 'formula', 'for', 'longevity']
+['could', 'ibuprofen', 'extend', 'lives', 'for', 'humans', 'too']
+['new', 'test', 'detects', 'heart', 'disease', 'risk', 'for', 'black', 'women']
+['angelina', "jolie's", 'chickenpox', 'can', 'be', 'serious', 'for', 'adults']
+
+Centroid Tweet: 
+["what's", 'it', 'like', 'to', 'go', 'last', 'at', 'the', 'olympics']
+Tweets in cluster:
+['meet', 'four', 'people', 'who', 'lost', '100', 'pounds', 'and', 'kept', 'it', 'off']
+['mind-controlled', 'robot', 'arm', 'wins', 'at', 'rock-paper-scissors']
+["what's", 'wrong', 'with', 'wyatt', "baby's", 'disease', 'baffles', 'parents']
+['food', 'to', 'help', 'fight', 'the', 'flu']
+['oxygen', 'therapy', 'or', 'hot', 'air', 'treatment', "doesn't", 'pass', 'the', 'test']
+
+Centroid Tweet: 
+['will', 'work', 'smoothly', 'by', 'end', 'of', 'november', 'government', 'pledges']
+Tweets in cluster:
+['money', 'from', 'icebucketchallenge', 'still', 'flowing', 'to', 'als', 'association', 'where', 'leaders', 'remain', 'awestruck', 'by', 'gush', 'of', 'goodwill']
+['hospital', 'errors', 'drop', 'saving', '50,000', 'lives', 'government']
+['u.k', 'mom', 'opts', 'to', 'end', 'life', 'of', 'disabled', 'child']
+['defiant', 'ebola', 'nurse', 'i', 'will', 'not', 'be', 'bullied', 'by', 'politicians']
+['there', 'will', 'be', 'critics', 'christie', 'defends', "nurse's", 'quarantine']
+
+Centroid Tweet: 
+['debunked', 'cheeseburger', 'as', 'bad', 'as', 'smoking']
+Tweets in cluster:
+['bad', 'luck', 'men', 'with', 'poor', 'semen', 'have', 'poorer', 'health', 'too']
+['y', 'quit', 'smoking', 'destroys', 'male', 'chromosome']
+['calling', 'it', 'quits', 'american', 'smoking', 'hits', '50', 'year', 'low']
+['zoning', 'out', 'really', 'bad', 'narcolepsy', 'video', 'goes', 'viral']
+['as', 'ebola', 'scare', 'hit', 'dallas', 'residents', 'hunkered', 'down']
+
+Centroid Tweet: 
+['north', 'dakota', 'catholics', 'warned', 'of', 'possible', 'hepatitis', 'exposure', 'from', 'bishop', 'during', 'communion']
+Tweets in cluster:
+['cdc', 'reports', 'possible', 'ebola', 'exposure', 'at', 'containment', 'lab']
+['why', 'stress-fueled', 'indulgences', "don't", 'bring', 'joy']
+['delayed', 'concussions', 'common', 'and', 'tricky']
+['thousands', 'of', 'children', 'at', 'risk', 'from', 'laundry', 'pods', 'study']
+['dozens', 'of', 'volunteers', 'have', 'come', 'back', 'safe', 'from', 'ebola', 'hot', 'zone']
+
+Centroid Tweet: 
+['a', 'kidney', 'for', '10,000', 'paying', 'donors', 'actually', 'pays', 'off', 'new', 'study', 'finds']
+Tweets in cluster:
+['aging', 'tsunami', 'as', 'crisis', 'grows', 'a', 'search', 'for', 'help']
+['half', 'a', 'million', 'sign', 'up', 'for', 'obamacare', 'in', 'first', 'week']
+['can', 'being', 'a', 'cop', 'kill', 'you', 'study', 'finds', 'biggest', 'heart', 'risks']
+['home', 'cooks', 'eat', 'better', 'new', 'study', 'finds']
+['is', 'arkansas', 'gov', 'a', 'snowplow', 'parent', 'for', 'pardoning', 'son']
